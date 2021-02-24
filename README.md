@@ -1,3 +1,5 @@
+![Bing brand logo](logo-2.png) 
+
 ### Hi there, I'm Bing 👋
 
 - 🔭 I’m currently working on a React Native App
