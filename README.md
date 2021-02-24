@@ -1,6 +1,6 @@
 ![Bing brand logo](logo.png) 
 
-### Hi there, I'm Bing 👋
+### Hi there, I'm Bing ![Bing brand logo](logo.png) 
 
 - 🔭 I’m currently working on a React Native App
 - 🌱 I’m currently learning Typescript and React Native
