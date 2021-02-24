@@ -1,4 +1,4 @@
-![Bing brand logo](logo-2.png) 
+![Bing brand logo](logo.png) 
 
 ### Hi there, I'm Bing 👋
 
