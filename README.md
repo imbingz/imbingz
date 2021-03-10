@@ -1,4 +1,4 @@
-### ![Bing brand logo](logo.png) Hi there, I'm Bing Z. 👩🏻‍💻
+### ![Bing brand logo](logo.png) Hi there, I'm Bing. 👩🏻‍💻
 
 - 🔭 I’m currently working on a React Native App
 - 🌱 I’m currently learning Typescript and React Native
