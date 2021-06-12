@@ -1,7 +1,6 @@
 ### ![Bing brand logo](logo.png) Hi there, I'm Bing. 👩🏻‍💻
 
-- 🔭 I’m currently working on a React Native App
-- 🌱 I’m currently learning Java, Typescript and Vue
+- 🌱 I’m currently learning Java, Sprin Boot and Angular
 - 🥅 2021 Goald 🎯 Contribute more on Open Source Project
 - 🤔 I’m looking for help with how to better Unit Testing
 - 📫 How to reach me: [Clikc Here](https://www.bingz.tech/contact.html)
